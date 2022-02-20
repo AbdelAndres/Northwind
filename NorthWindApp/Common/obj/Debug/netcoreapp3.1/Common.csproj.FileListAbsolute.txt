@@ -1,0 +1,10 @@
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\Common\bin\Debug\netcoreapp3.1\Univalle.Fie.Sistemas.BaseDeDatos2.NorthWindApp.Common.deps.json
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\Common\bin\Debug\netcoreapp3.1\Univalle.Fie.Sistemas.BaseDeDatos2.NorthWindApp.Common.dll
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\Common\bin\Debug\netcoreapp3.1\Univalle.Fie.Sistemas.BaseDeDatos2.NorthWindApp.Common.pdb
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\Common\obj\Debug\netcoreapp3.1\Univalle.Fie.Sistemas.BaseDeDatos2.NorthWindApp.Common.dll
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\Common\obj\Debug\netcoreapp3.1\Univalle.Fie.Sistemas.BaseDeDatos2.NorthWindApp.Common.pdb
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\Common\bin\Debug\netcoreapp3.1\Univalle.Fie.Sistemas.BaseDeDatos2.NorthWindApp.Common.dll.config

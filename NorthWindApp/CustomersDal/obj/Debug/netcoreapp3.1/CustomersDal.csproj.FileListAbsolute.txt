@@ -1,0 +1,13 @@
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\CustomersDal\obj\Debug\netcoreapp3.1\CustomersDal.csprojAssemblyReference.cache
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\CustomersDal\obj\Debug\netcoreapp3.1\CustomersDal.AssemblyInfoInputs.cache
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\CustomersDal\obj\Debug\netcoreapp3.1\CustomersDal.AssemblyInfo.cs
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\CustomersDal\obj\Debug\netcoreapp3.1\CustomersDal.csproj.CoreCompileInputs.cache
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\CustomersDal\bin\Debug\netcoreapp3.1\Univalle.Fie.Sistemas.BaseDeDatos2.NorthWindApp.CustomersDal.deps.json
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\CustomersDal\bin\Debug\netcoreapp3.1\Univalle.Fie.Sistemas.BaseDeDatos2.NorthWindApp.CustomersDal.dll
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\CustomersDal\bin\Debug\netcoreapp3.1\Univalle.Fie.Sistemas.BaseDeDatos2.NorthWindApp.CustomersDal.pdb
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\CustomersDal\bin\Debug\netcoreapp3.1\Univalle.Fie.Sistemas.BaseDeDatos2.NorthWindApp.Common.dll
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\CustomersDal\bin\Debug\netcoreapp3.1\Univalle.Fie.Sistemas.BaseDeDatos2.NorthWindApp.Common.pdb
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\CustomersDal\obj\Debug\netcoreapp3.1\CustomersDal.csproj.CopyComplete
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\CustomersDal\obj\Debug\netcoreapp3.1\Univalle.Fie.Sistemas.BaseDeDatos2.NorthWindApp.CustomersDal.dll
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\CustomersDal\obj\Debug\netcoreapp3.1\Univalle.Fie.Sistemas.BaseDeDatos2.NorthWindApp.CustomersDal.pdb
+G:\andres\Universidad\Programas Visual Studio\NorthWind\NorthWindApp\CustomersDal\bin\Debug\netcoreapp3.1\Univalle.Fie.Sistemas.BaseDeDatos2.NorthWindApp.Common.dll.config
